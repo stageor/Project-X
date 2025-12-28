@@ -1,72 +1,114 @@
 PHASE 0 — Prerequisites (If this is weak, everything collapses)
 -------------------------------------------------------------------
 OS & Debugging — Linux — Production runs on Linux. If you can’t navigate processes, permissions, filesystems, you are helpless when things break.
- 00:00:00 - Course Orientation & Why Linux / CLI Matters
- 00:15:00 - Terminals, Shells & CLI Fundamentals
- 00:30:00 - Shell Productivity & Command History
- 00:45:00 - Filesystem Basics & Navigation
- 01:00:00 - File Inspection & Text Viewing
- 01:15:00 - File & Directory Manipulation
- 01:30:00 - Search & Discovery Tools
- 01:45:00 - Users, Permissions & Security
- 02:00:00 - Programs, Execution & PATH
- 02:15:00 - Input / Output & Process Control
- 02:30:00 - Unix Philosophy & Package Management
+  00:00:00 - Course Orientation & Why Linux / CLI Matters
+  00:15:00 - Terminals, Shells & CLI Fundamentals
+  00:30:00 - Shell Productivity & Command History
+  00:45:00 - Filesystem Basics & Navigation
+  01:00:00 - File Inspection & Text Viewing
+  01:15:00 - File & Directory Manipulation
+  01:30:00 - Search & Discovery Tools
+  01:45:00 - Users, Permissions & Security
+  02:00:00 - Programs, Execution & PATH
+  02:15:00 - Input / Output & Process Control
+  02:30:00 - Unix Philosophy & Package Management
 Version Control — Git & GitHub — This is not optional collaboration hygiene. It’s how experiments, pipelines, infra, and rollbacks survive reality.
- 00:00:00 - What Git Is (and Is Not)
- 00:15:00 - Repositories, States & Daily Commands
- 00:30:00 - Commits, History & Internals (Mental Model)
- 00:45:00 - Branching (The Only Definition That Matters)
- 01:00:00 - git log Mastery & Branch Internals
- 01:15:00 - Merge Commits & Merge Base
- 01:30:00 - Fast-Forward vs True Merge
- 01:45:00 - Rebase Fundamentals (Mental Model)
- 02:00:00 - Merging, Pulls & Diverging Branches
- 02:15:00 - Pull Requests, Solo vs Team Workflow
- 02:30:00 - .gitignore Deep Dive
- 02:45:00 - Local Ignores, Generated Files & Cleanup
- 03:00:00 - Conflict Resolution: ours vs theirs
- 03:15:00 - Rebase Conflicts (Why Roles Flip)
- 03:30:00 - rerere, Squash & History Surgery
- 03:45:00 - Stash, Revert, Cherry-Pick & Bisect
- 04:00:00 - Bisect (Find the Bug, Fast)
- 04:15:00 - Worktrees + Tags (Parallel Work & Releases)
+  00:00:00 - What Git Is (and Is Not)
+  00:15:00 - Repositories, States & Daily Commands
+  00:30:00 - Commits, History & Internals (Mental Model)
+  00:45:00 - Branching (The Only Definition That Matters)
+  01:00:00 - git log Mastery & Branch Internals
+  01:15:00 - Merge Commits & Merge Base
+  01:30:00 - Fast-Forward vs True Merge
+  01:45:00 - Rebase Fundamentals (Mental Model)
+  02:00:00 - Merging, Pulls & Diverging Branches
+  02:15:00 - Pull Requests, Solo vs Team Workflow
+  02:30:00 - .gitignore Deep Dive
+  02:45:00 - Local Ignores, Generated Files & Cleanup
+  03:00:00 - Conflict Resolution: ours vs theirs
+  03:15:00 - Rebase Conflicts (Why Roles Flip)
+  03:30:00 - rerere, Squash & History Surgery
+  03:45:00 - Stash, Revert, Cherry-Pick & Bisect
+  04:00:00 - Bisect (Find the Bug, Fast)
+  04:15:00 - Worktrees + Tags (Parallel Work & Releases)
 Programming — Python — ML is Python-first. Even when performance-critical parts aren’t, orchestration and glue code are.
- 00:00:00 - Course Orientation & Python Execution Fundamentals
- 00:15:00 - Working with Strings & `print()` Deep Dive
- 00:30:00 - Variables, Data Types, Type Casting & Code Structure
- 00:45:00 - String Indexing, Slicing & Built-in Methods
- 01:00:00 - Hands-on String Operations
- 01:15:00 - Conditional Logic: `if`, `elif`, `else`
- 01:30:00 - `for` Loops: Iteration as a Data Engineering Primitive
- 01:45:00 - Loop Control: `break`, `continue` & `while` Loops
- 02:00:00 - Advanced List Operations: Reversal & Slicing
- 02:15:00 - List Comprehensions for High-Productivity Code
- 02:30:00 -Core Data Structures: Dictionaries, Sets & Tuples
- 02:45:00 - Writing Functions: `def`, `return`, `*args`, `**kwargs`
- 03:00:00 - Exception Handling: Writing Failure-Resistant Code
- 03:15:00 - `return` vs `finally` & Function Execution Flow
- 03:30:00 - Variable Scope, Globals & Raising Custom Exceptions
- 03:45:00 - `enumerate()` & Object-Oriented Programming 
- 04:00:00 - OOP Method Types: Instance, Class & Static Methods
- 04:15:00 - Getters & Setters: The Pythonic Approach
- 04:30:00 - Inheritance with Real-World Use Cases
- 04:50:00 - Multiple Inheritance & Introduction to Multithreading
- 05:00:00 - Simulating Workloads: `sleep`, `random` & Sequential Execution
- 05:15:00 - Parallel Execution: `ThreadPoolExecutor`, `map()` & `requests`
+  00:00:00 - Course Orientation & Python Execution Fundamentals
+  00:15:00 - Working with Strings & `print()` Deep Dive
+  00:30:00 - Variables, Data Types, Type Casting & Code Structure
+  00:45:00 - String Indexing, Slicing & Built-in Methods
+  01:00:00 - Hands-on String Operations
+  01:15:00 - Conditional Logic: `if`, `elif`, `else`
+  01:30:00 - `for` Loops: Iteration as a Data Engineering Primitive
+  01:45:00 - Loop Control: `break`, `continue` & `while` Loops
+  02:00:00 - Advanced List Operations: Reversal & Slicing
+  02:15:00 - List Comprehensions for High-Productivity Code
+  02:30:00 -Core Data Structures: Dictionaries, Sets & Tuples
+  02:45:00 - Writing Functions: `def`, `return`, `*args`, `**kwargs`
+  03:00:00 - Exception Handling: Writing Failure-Resistant Code
+  03:15:00 - `return` vs `finally` & Function Execution Flow
+  03:30:00 - Variable Scope, Globals & Raising Custom Exceptions
+  03:45:00 - `enumerate()` & Object-Oriented Programming 
+  04:00:00 - OOP Method Types: Instance, Class & Static Methods
+  04:15:00 - Getters & Setters: The Pythonic Approach
+  04:30:00 - Inheritance with Real-World Use Cases
+  04:50:00 - Multiple Inheritance & Introduction to Multithreading
+  05:00:00 - Simulating Workloads: `sleep`, `random` & Sequential Execution
+  05:15:00 - Parallel Execution: `ThreadPoolExecutor`, `map()` & `requests`
 Environments — Virtual Environments — Dependency hell kills teams. Reproducibility starts here, not with Docker.
- 00:00:00 - Why Virtual Environments Exist (Dependency & Version)
- 00:01:20 - What a Virtual Environment Is (Python Version + Libraries)
- 00:02:10 - How Python Imports Work (sys.path Explained)
- 00:03:55 - Creating a Virtual Environment with venv
- 00:06:10 - Activating a Virtual Environment (Windows / macOS / Linux)
- 00:07:25 - How PATH Changes When a Virtual Environment Is Activated
- 00:09:55 - Installing Packages Inside a Virtual Environment (pip)
- 00:11:55 - Managing Dependencies with requirements.txt
- 00:13:40 - Version Pinning & Semantic Versioning (Best Practices)
- 00:15:10 - When to Use venv vs Pipenv (Final Advice)
+  00:00:00 - Why Virtual Environments Exist (Dependency & Version)
+  00:01:20 - What a Virtual Environment Is (Python Version + Libraries)
+  00:02:10 - How Python Imports Work (sys.path Explained)
+  00:03:55 - Creating a Virtual Environment with venv
+  00:06:10 - Activating a Virtual Environment (Windows / macOS / Linux)
+  00:07:25 - How PATH Changes When a Virtual Environment Is Activated
+  00:09:55 - Installing Packages Inside a Virtual Environment (pip)
+  00:11:55 - Managing Dependencies with requirements.txt
+  00:13:40 - Version Pinning & Semantic Versioning (Best Practices)
+  00:15:10 - When to Use venv vs Pipenv (Final Advice)
 Databases — SQL | Data doesn’t magically appear as CSVs. SQL is how you interrogate reality.
+  00:00:00 - SQL Foundations & Schema Basics
+  00:00:15 - Data Manipulation & Filtering
+  00:00:30 - Sorting, Limiting & Aggregation Basics
+  00:00:45 - JOIN Fundamentals
+  01:00:00 - Advanced Joins & Set Operations
+  01:15:00 - Conditional Logic & NULL Handling
+  01:30:00 - String, Date & Math Functions
+  01:45:00 - Window Functions: Core Concepts
+  02:00:00 - Ranking & Partitioning
+  02:15:00 - Advanced Window Analytics
+  02:30:00 - Aggregations with Window Functions
+  02:45:00 - Subqueries: Core Mechanics
+  03:00:00 - Correlated & Derived Subqueries
+  03:15:00 - Complex Subquery Refactoring
+  03:30:00 - Subquery Performance & Limits
+  03:45:00 - Introduction to CTEs
+  04:00:00 - Rewriting Logic Using CTEs
+  04:15:00 - IN Operator & Pattern Replacement
+  04:30:00 - Ranking Scenarios & Deduplication
+  04:45:00 - LAG & LEAD Analytics
+  05:00:00 - Views & Reusable Queries
+  05:15:00 - Stored Procedures
+  05:30:00 - SQL User-Defined Functions
+  05:45:00 - Functions vs Stored Procedures
+  06:00:00 - What Comes After SQL
 Debugging — System Logs & Process Inspection | When training jobs die at 2 a.m., logs are the only truth you get.
+  00:00:00 - Why Debugging Separates Real Developers
+  00:01:35 - You Can't Debug What You Don't Understand
+  00:02:20 - System Flow: Frontend → Backend → Database
+  00:03:10 - Debugging in Large, Existing Codebases
+  00:03:50 - Drawing the System to Understand It
+  00:04:55 - The Cost of Skipping Codebase Understanding
+  00:05:25 - Debuggers vs Console Logs
+  00:06:20 - Debugging Async & Event-Driven Code
+  00:06:55 - AI Coding Requires Strong Tests
+  00:07:40 - Debugging at Scale (Microsoft Story)
+  00:08:35 - Logs, Telemetry & Observability
+  00:09:30 - PII-Safe Logging & Traceability
+  00:10:30 - Debugging Rule: Assume Nothing
+  00:11:10 - Binary Search Debugging Method
+  00:12:45 - After Fixing the Bug (Top 5% Habit)
+  00:13:30 - Tests, Docs & Team Learning
+  00:14:25 - Becoming an Exceptional Developer
 
 PHASE 1 — Math Intuition (You don’t need proofs, you need instinct)
 -----------------------------------------------------------------------
