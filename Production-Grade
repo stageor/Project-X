@@ -17,16 +17,16 @@ Calculus — Differential / Integral / Multivariable | Backprop, loss surfaces, 
 
 PHASE 2 — ML Theory Foundations (This separates engineers from button-clickers)
 -----------------------------------------------------------------------------------
-ML Framework — scikit-learn Baseline models. Sanity checks. Fast iteration. If your deep model can’t beat this, stop.
-Regression — Linear Regression The “hello world” of modeling — and shockingly effective in real systems.
-Tree Models — Decision Trees Interpretability and non-linearity without neural complexity.
-Ensembles — Random Forests Bias reduction without fragile tuning.
-Metrics — Accuracy, Precision, Recall, F1 Wrong metric = wrong business decision = wasted model.
-Ranking Metrics — ROC–AUC Binary classification isn’t binary in production.
-Regularization — Ridge, Lasso, Elastic Net Overfitting is the default. Regularization is the antidote.
-Validation — Cross-Validation One train-test split is amateur hour.
-Risk Analysis — Bias–Variance Explains why your model fails, not just that it failed.
-Data Risk — Leakage Detection Leakage gets you fake success and real-world embarrassment.
+ML Framework — scikit-learn | Baseline models. Sanity checks. Fast iteration. If your deep model can’t beat this, stop.
+Regression — Linear Regression | The “hello world” of modeling — and shockingly effective in real systems.
+Tree Models — Decision Trees | Interpretability and non-linearity without neural complexity.
+Ensembles — Random Forests | Bias reduction without fragile tuning.
+Metrics — Accuracy, Precision, Recall, F1 | Wrong metric = wrong business decision = wasted model.
+Ranking Metrics — ROC–AUC | Binary classification isn’t binary in production.
+Regularization — Ridge, Lasso, Elastic | Net Overfitting is the default. Regularization is the antidote.
+Validation — Cross-Validation | One train-test split is amateur hour.
+Risk Analysis — Bias–Variance | Explains why your model fails, not just that it failed.
+Data Risk — Leakage Detection | Leakage gets you fake success and real-world embarrassment.
 
 PHASE 3 — Data Handling (Most ML failures happen here)
 ----------------------------------------------------------
