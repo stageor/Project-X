@@ -32,6 +32,28 @@ Version Control — Git & GitHub — This is not optional collaboration hygiene.
  04:00:00 - Bisect (Find the Bug, Fast)
  04:15:00 - Worktrees + Tags (Parallel Work & Releases)
 Programming — Python — ML is Python-first. Even when performance-critical parts aren’t, orchestration and glue code are.
+ 00:00:00 - Course Orientation & Python Execution Fundamentals
+ 00:15:00 - Working with Strings & `print()` Deep Dive
+ 00:30:00 - Variables, Data Types, Type Casting & Code Structure
+ 00:45:00 - String Indexing, Slicing & Built-in Methods
+ 01:00:00 - Hands-on String Operations
+ 01:15:00 - Conditional Logic: `if`, `elif`, `else`
+ 01:30:00 - `for` Loops: Iteration as a Data Engineering Primitive
+ 01:45:00 - Loop Control: `break`, `continue` & `while` Loops
+ 02:00:00 - Advanced List Operations: Reversal & Slicing
+ 02:15:00 - List Comprehensions for High-Productivity Code
+ 02:30:00 -Core Data Structures: Dictionaries, Sets & Tuples
+ 02:45:00 - Writing Functions: `def`, `return`, `*args`, `**kwargs`
+ 03:00:00 - Exception Handling: Writing Failure-Resistant Code
+ 03:15:00 - `return` vs `finally` & Function Execution Flow
+ 03:30:00 - Variable Scope, Globals & Raising Custom Exceptions
+ 03:45:00 - `enumerate()` & Object-Oriented Programming 
+ 04:00:00 - OOP Method Types: Instance, Class & Static Methods
+ 04:15:00 - Getters & Setters: The Pythonic Approach
+ 04:30:00 - Inheritance with Real-World Use Cases
+ 04:50:00 - Multiple Inheritance & Introduction to Multithreading
+ 05:00:00 - Simulating Workloads: `sleep`, `random` & Sequential Execution
+ 05:15:00 - Parallel Execution: `ThreadPoolExecutor`, `map()` & `requests`
 Environments — Virtual Environments — Dependency hell kills teams. Reproducibility starts here, not with Docker.
 Databases — SQL | Data doesn’t magically appear as CSVs. SQL is how you interrogate reality.
 Debugging — System Logs & Process Inspection | When training jobs die at 2 a.m., logs are the only truth you get.
