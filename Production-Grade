@@ -13,28 +13,28 @@ OS & Debugging — Linux — Production runs on Linux. If you can’t navigate p
 - 02:15:00 - Input / Output & Process Control
 - 02:30:00 - Unix Philosophy & Package Management
 Version Control — Git & GitHub — This is not optional collaboration hygiene. It’s how experiments, pipelines, infra, and rollbacks survive reality.
-  00:00:00 - What Git Is (and Is Not)
-  00:15:00 - Repositories, States & Daily Commands
-  00:30:00 - Commits, History & Internals (Mental Model)
-  00:45:00 - Branching (The Only Definition That Matters)
-  01:00:00 - git log Mastery & Branch Internals
-  01:15:00 - Merge Commits & Merge Base
-  01:30:00 - Fast-Forward vs True Merge
-  01:45:00 - Rebase Fundamentals (Mental Model)
-  02:00:00 - Merging, Pulls & Diverging Branches
-  02:15:00 - Pull Requests, Solo vs Team Workflow
-  02:30:00 - .gitignore Deep Dive
-  02:45:00 - Local Ignores, Generated Files & Cleanup
-  03:00:00 - Conflict Resolution: ours vs theirs
-  03:15:00 - Rebase Conflicts (Why Roles Flip)
-  03:30:00 - rerere, Squash & History Surgery
-  03:45:00 - Stash, Revert, Cherry-Pick & Bisect
-  04:00:00 - Bisect (Find the Bug, Fast)
-  04:15:00 - Worktrees + Tags (Parallel Work & Releases)
+- 00:00:00 - What Git Is (and Is Not)
+- 00:15:00 - Repositories, States & Daily Commands
+- 00:30:00 - Commits, History & Internals (Mental Model)
+- 00:45:00 - Branching (The Only Definition That Matters)
+- 01:00:00 - git log Mastery & Branch Internals
+- 01:15:00 - Merge Commits & Merge Base
+- 01:30:00 - Fast-Forward vs True Merge
+- 01:45:00 - Rebase Fundamentals (Mental Model)
+- 02:00:00 - Merging, Pulls & Diverging Branches
+- 02:15:00 - Pull Requests, Solo vs Team Workflow
+- 02:30:00 - .gitignore Deep Dive
+- 02:45:00 - Local Ignores, Generated Files & Cleanup
+- 03:00:00 - Conflict Resolution: ours vs theirs
+- 03:15:00 - Rebase Conflicts (Why Roles Flip)
+- 03:30:00 - rerere, Squash & History Surgery
+- 03:45:00 - Stash, Revert, Cherry-Pick & Bisect
+- 04:00:00 - Bisect (Find the Bug, Fast)
+- 04:15:00 - Worktrees + Tags (Parallel Work & Releases)
 Programming — Python — ML is Python-first. Even when performance-critical parts aren’t, orchestration and glue code are.
-  00:00:00 - Course Orientation & Python Execution Fundamentals
-  00:15:00 - Working with Strings & `print()` Deep Dive
-  00:30:00 - Variables, Data Types, Type Casting & Code Structure
+- 00:00:00 - Course Orientation & Python Execution Fundamentals
+- 00:15:00 - Working with Strings & `print()` Deep Dive
+- 00:30:00 - Variables, Data Types, Type Casting & Code Structure
 - 00:45:00 - String Indexing, Slicing & Built-in Methods
 - 01:00:00 - Hands-on String Operations
 - 01:15:00 - Conditional Logic: `if`, `elif`, `else`
@@ -42,18 +42,18 @@ Programming — Python — ML is Python-first. Even when performance-critical pa
 - 01:45:00 - Loop Control: `break`, `continue` & `while` Loops
 - 02:00:00 - Advanced List Operations: Reversal & Slicing
 - 02:15:00 - List Comprehensions for High-Productivity Code
-  02:30:00 - Core Data Structures: Dictionaries, Sets & Tuples
-  02:45:00 - Writing Functions: `def`, `return`, `*args`, `**kwargs`
-  03:00:00 - Exception Handling: Writing Failure-Resistant Code
-  03:15:00 - `return` vs `finally` & Function Execution Flow
-  03:30:00 - Variable Scope, Globals & Raising Custom Exceptions
-  03:45:00 - `enumerate()` & Object-Oriented Programming 
-  04:00:00 - OOP Method Types: Instance, Class & Static Methods
-  04:15:00 - Getters & Setters: The Pythonic Approach
-  04:30:00 - Inheritance with Real-World Use Cases
-  04:50:00 - Multiple Inheritance & Introduction to Multithreading
-  05:00:00 - Simulating Workloads: `sleep`, `random` & Sequential Execution
-  05:15:00 - Parallel Execution: `ThreadPoolExecutor`, `map()` & `requests`
+- 02:30:00 - Core Data Structures: Dictionaries, Sets & Tuples
+- 02:45:00 - Writing Functions: `def`, `return`, `*args`, `**kwargs`
+- 03:00:00 - Exception Handling: Writing Failure-Resistant Code
+- 03:15:00 - `return` vs `finally` & Function Execution Flow
+- 03:30:00 - Variable Scope, Globals & Raising Custom Exceptions
+- 03:45:00 - `enumerate()` & Object-Oriented Programming 
+- 04:00:00 - OOP Method Types: Instance, Class & Static Methods
+- 04:15:00 - Getters & Setters: The Pythonic Approach
+- 04:30:00 - Inheritance with Real-World Use Cases
+- 04:50:00 - Multiple Inheritance & Introduction to Multithreading
+- 05:00:00 - Simulating Workloads: `sleep`, `random` & Sequential Execution
+- 05:15:00 - Parallel Execution: `ThreadPoolExecutor`, `map()` & `requests`
 Environments — Virtual Environments — Dependency hell kills teams. Reproducibility starts here, not with Docker.
   00:00:00 - Why Virtual Environments Exist (Dependency & Version)
   00:01:20 - What a Virtual Environment Is (Python Version + Libraries)
@@ -92,17 +92,17 @@ Databases — SQL | Data doesn’t magically appear as CSVs. SQL is how you inte
   05:45:00 - Functions vs Stored Procedures
   06:00:00 - What Comes After SQL
 Debugging — System Logs & Process Inspection | When training jobs die at 2 a.m., logs are the only truth you get.
-  00:00:00 - Why Debugging Separates Real Developers
-  00:01:35 - You Can't Debug What You Don't Understand
-  00:02:20 - System Flow: Frontend → Backend → Database
-  00:03:10 - Debugging in Large, Existing Codebases
-  00:03:50 - Drawing the System to Understand It
-  00:04:55 - The Cost of Skipping Codebase Understanding
-  00:05:25 - Debuggers vs Console Logs
-  00:06:20 - Debugging Async & Event-Driven Code
-  00:06:55 - AI Coding Requires Strong Tests
-  00:07:40 - Debugging at Scale (Microsoft Story)
-  00:08:35 - Logs, Telemetry & Observability
+- 00:00:00 - Why Debugging Separates Real Developers
+- 00:01:35 - You Can't Debug What You Don't Understand
+- 00:02:20 - System Flow: Frontend → Backend → Database
+- 00:03:10 - Debugging in Large, Existing Codebases
+- 00:03:50 - Drawing the System to Understand It
+- 00:04:55 - The Cost of Skipping Codebase Understanding
+- 00:05:25 - Debuggers vs Console Logs
+- 00:06:20 - Debugging Async & Event-Driven Code
+- 00:06:55 - AI Coding Requires Strong Tests
+- 00:07:40 - Debugging at Scale (Microsoft Story)
+- 00:08:35 - Logs, Telemetry & Observability
   00:09:30 - PII-Safe Logging & Traceability
   00:10:30 - Debugging Rule: Assume Nothing
   00:11:10 - Binary Search Debugging Method
