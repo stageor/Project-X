@@ -18,3 +18,7 @@ Q: Why keep projects organized inside one folder (e.g., workspace)?
 A: To avoid clutter and reduce risk.
 Q: What does ~ represent?
 A: The user’s home directory.
+Q: Why did the course start in the home directory?
+A: Because it is the default working location for a user.
+Q: Where should most development work be done?
+A: Inside the home directory.
