@@ -1,24 +1,5 @@
-you act senior first then you become one, not waiting someone notices.
-you get paid to be problem solver, not for identifying it.
-you get respected for your usefulness, not by behaviour.
-you get authority by results, not by being loud about it.
-NE is where people plan to age.
-NW is where people hope money will save them.
-Q: What flag is required to copy directories?
-A: -R (capital R).
-Q: Why is the capital -R important to remember?
-A: It differs from rm -r.
-Q: What is a user’s home directory?
-A: The directory for personal files.
-Q: Why is working outside the home directory risky?
-A: System directories are used by the OS and can be damaged.
-Q: Give examples of system directories to avoid.
-A: /bin, /etc.
-Q: Why keep projects organized inside one folder (e.g., workspace)?
-A: To avoid clutter and reduce risk.
-Q: What does ~ represent?
-A: The user’s home directory.
-Q: Why did the course start in the home directory?
-A: Because it is the default working location for a user.
-Q: Where should most development work be done?
-A: Inside the home directory.
+Decide once. Act once. Stop negotiating.
+Accept being misunderstood. Without correcting it.
+Withdraw, don’t perform.
+Protect your self-respect over your image.
+Build forward immediately.
