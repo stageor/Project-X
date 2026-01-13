@@ -1,0 +1,31 @@
+LEVEL 0 — MINDSET (PASS / FAIL GATE)
+Ambiguity is your fault
+Ops pain is your responsibility
+Requirements are instructions, not explanations
+If it fails in prod, trace it back to you
+LEVEL 1 — ITSM & ITIL
+Incident Management
+Problem Management
+Change Management
+Request Fulfilment
+CMDB
+LEVEL 2 — ITSM PLATFORM
+Data Model
+Incident vs Task vs Request
+User vs Group vs Role
+CI linking & impact
+SLA records
+Execution Order
+Assignment rules
+Business rules
+Workflows / flows
+UI policies (impact on data quality)
+SLA Engine
+Start conditions
+Pause conditions
+Reset risks
+Multi-SLA conflicts
+Notifications
+Trigger conditions
+Suppression logic
+Audit impact
