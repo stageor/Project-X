@@ -1,8 +1,8 @@
 --LEVEL 0 — MINDSET (PASS / FAIL GATE)
-----Ambiguity is your fault
-----Ops pain is your responsibility
-----Requirements are instructions, not explanations
-----If it fails in prod, trace it back to you
+----Ambiguity = Communication failure
+----Ops pain Ownership = simplifying, automating, clarifying
+----Good requirements = unambiguous instructions = QA shouldnt asks “what did you mean?”
+----Missed edge cases = missed thinking = failed to prevent it
 --LEVEL 1 — ITSM & ITIL
 ----Incident Management
 ----Problem Management
