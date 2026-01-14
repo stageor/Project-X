@@ -1,14 +1,14 @@
 . Ownership & Delivery Identity
-.. Accountability Mindset
-... Definition of BA Accountability in Managed Services
-.... Difference between responsibility and ownership
-.... Accountability across build, test, and run phases
-... Accountability Boundaries
-.... What the BA owns vs what the BA influences
-.... Where “not my role” becomes failure
-... Outcome-Based Accountability
-.... Measuring success via operational outcomes
-.... SLA, stability, and usability as success metrics
+... Accountability Mindset
+..... Definition of BA Accountability in Managed Services
+....... Difference between responsibility and ownership
+....... Accountability across build, test, and run phases
+..... Accountability Boundaries
+....... What the BA owns vs what the BA influences
+....... Where “not my role” becomes failure
+..... Outcome-Based Accountability
+....... Measuring success via operational outcomes
+....... SLA, stability, and usability as success metrics
 0.1.4 Accountability During Incidents
 0.1.4.1 BA role in P1 / Major Incident scenarios
 0.1.4.2 Decision-making under pressure
