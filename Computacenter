@@ -1,14 +1,14 @@
-LEVEL 0 — MINDSET (PASS / FAIL GATE)
-Ambiguity is your fault
-Ops pain is your responsibility
-Requirements are instructions, not explanations
-If it fails in prod, trace it back to you
-LEVEL 1 — ITSM & ITIL
-Incident Management
-Problem Management
-Change Management
-Request Fulfilment
-CMDB
+--LEVEL 0 — MINDSET (PASS / FAIL GATE)
+----Ambiguity is your fault
+----Ops pain is your responsibility
+----Requirements are instructions, not explanations
+----If it fails in prod, trace it back to you
+--LEVEL 1 — ITSM & ITIL
+----Incident Management
+----Problem Management
+----Change Management
+----Request Fulfilment
+----CMDB
 LEVEL 2 — ITSM PLATFORM
 Data Model
 Incident vs Task vs Request
