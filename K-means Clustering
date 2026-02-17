@@ -19,5 +19,4 @@ def find_closest_centroids(X, centroids):
             dist = np.linalg.norm(X[i] - centroids[j])
             distances.append(dist)
         idx[i] = np.argmin(distances)
-
     return idx
