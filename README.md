@@ -1,6 +1,6 @@
 # 🎬 Item-Based Movie Recommender System
 
-Collaborative filtering recommender system built with Python that suggests movies based on user preferences — inspired by how platforms like Netflix and Spotify generate personalised recommendations.
+Collaborative filtering recommender system built with Python that suggests movies based on user preferences which is inspired by how platforms like Netflix and Spotify generate personalised recommendations.
 
 ---
 
