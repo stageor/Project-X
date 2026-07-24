@@ -8,7 +8,7 @@ Collaborative filtering recommender system built with Python that suggests movie
 
 This project implements **item-based collaborative filtering** using the [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/). The core idea is simple: if two movies tend to be rated similarly across many users, they are considered "similar" — and if you liked one, you're likely to enjoy the other.
 
-Rather than relying on movie metadata (genre, director, cast), this approach learns purely from **patterns in user behaviour**, which makes it surprisingly powerful even without domain knowledge about the content itself.
+Rather than relying on movie metadata (genre, director, cast), this approach learns purely from **patterns in user behaviour**, which makes surprisingly powerful even without domain knowledge about the content itself.
 
 ---
 
